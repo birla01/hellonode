@@ -4,12 +4,12 @@
   "description": "A Hello World HTTP server",
   "main": "main.js",
   "scripts": {
-    "test": "node test.js",
+    "test": "echo \"Error: no test specified\" && exit 1"",
     "start": "node main.js"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/getintodevops/masterclass-codeexamples/"
+    "url": "https://github.com/birla01/hellonode/"
   },
   "keywords": [
     "node",
